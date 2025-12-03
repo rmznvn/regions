@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Омск"
+        "name": "Омская обл."
       },
       "geometry": {
         "type": "Polygon",
