@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Омск"
+        "name": "Омск",
+        "region": "Омская область"
       },
       "geometry": {
         "coordinates": [
